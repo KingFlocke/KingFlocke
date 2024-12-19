@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingFlocke
 - 👀 I’m interested in Data Science and Web-Development
-- 🌱 I’m currently learning Python
+- 🌱 My main languages are Python, PHP and Javascript
 - 💞️ I’m looking to collaborate on anything thats fun(ctional) 
 - 📫 How to reach me ... nobody knows for sure ^^
 
